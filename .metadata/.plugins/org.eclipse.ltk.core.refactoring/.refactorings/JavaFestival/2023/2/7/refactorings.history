@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;JavaFestival_2일차.ex01목표몸무게&apos; to &apos;ex01다이어트프로그램&apos;&#x0D;&#x0A;- Original project: &apos;JavaFestival&apos;&#x0D;&#x0A;- Original element: &apos;JavaFestival_2일차.ex01목표몸무게&apos;&#x0D;&#x0A;- Renamed element: &apos;JavaFestival_2일차.ex01다이어트프로그램&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ex01목표몸무게&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;JavaFestival_2일차{ex01목표몸무게.java[ex01목표몸무게" matchStrategy="1" name="ex01다이어트프로그램" qualified="false" references="true" similarDeclarations="false" stamp="1676419657564" textual="false" version="1.0"/>
+</session>

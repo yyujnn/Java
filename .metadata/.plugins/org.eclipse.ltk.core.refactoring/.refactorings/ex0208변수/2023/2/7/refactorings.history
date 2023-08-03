@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;다중if문&apos; to &apos;ex0210조건문/src&apos;&#x0D;&#x0A;- Original project: &apos;ex0208변수&apos;&#x0D;&#x0A;- Destination element: &apos;ex0210조건문/src&apos;&#x0D;&#x0A;- Original element: &apos;ex0208변수/src/다중if문&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=ex0210조건문/src" element1="/src&lt;다중if문" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1676247733464" version="1.0"/>
+</session>

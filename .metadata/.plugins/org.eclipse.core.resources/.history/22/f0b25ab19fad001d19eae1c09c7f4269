@@ -1,0 +1,64 @@
+package 이중for문;
+
+public class ex03별찍기 {
+
+	public static void main(String[] args) {
+
+		// 역삼각형
+		for (int j = 1; j <= 5; j++) {
+
+			for (int i = 5; i >= 1; i--) {
+
+				if (i > j) {
+
+					System.out.print(" ");
+				} else {
+
+					System.out.print("*");
+				}
+
+			}
+			System.out.println();
+
+		}
+
+		System.out.println();
+		
+		
+		
+		// 정삼각형
+
+
+
+		for (int i = 1; i <= 5; i++) {
+		
+				for (int j = 0; j <9 ; j++) {
+					
+					
+
+					System.out.print("*");
+					
+					
+				}
+				System.out.println(" ");
+			
+		}
+		
+		
+		
+		
+		
+		
+/*
+		System.out.print("    ");
+		System.out.print("*");
+		System.out.println();
+
+		System.out.print("   ");
+		System.out.print("**");
+		System.out.println();
+*/
+
+	}
+
+}
